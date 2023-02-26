@@ -1,1 +1,1 @@
-This project is a practice by following the YouTuber who called 'Alex the analysis', and here is the channel link: 'https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f", thank for his sharing.
+The dataset is from "our world in data", and here is the link: ourworldindata.org/covid-deaths. This project is a practice by following the YouTuber who called 'Alex the analysis', and here is the channel link: 'https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f", thank for his sharing.
